@@ -1,5 +1,5 @@
 # ICE-Time
-Use / control of ice storage systems for optimal use of renewable energy application
+Use / control of ice storage systems for optimal use of renewable energy application - an ontology based approach
 
 **Eisspeicher zur Speicherung regenerativer Energie – Ein innovativer Ansatz für nachhaltige Wärmespeicherung**
 
